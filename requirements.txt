@@ -1,0 +1,9 @@
+streamlit>=1.36,<2
+chromadb>=0.5,<2
+PyMuPDF>=1.24,<2
+python-docx>=1.1,<2
+Pillow>=10,<13
+pytesseract>=0.3.10,<1
+python-dotenv>=1,<2
+openai>=1.40,<3
+google-genai>=1.0,<2
